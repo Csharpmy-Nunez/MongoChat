@@ -10,7 +10,7 @@
   "author": "Franklin Nunez",
   "license": "MIT",
   "dependencies": {
-    "mongodb": "^2.2.30",
+    "mongodb": "^3.6.1",
     "socket.io": "^2.0.3"
   }
 }
